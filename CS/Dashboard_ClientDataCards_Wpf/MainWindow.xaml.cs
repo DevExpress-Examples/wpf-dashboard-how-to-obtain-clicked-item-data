@@ -23,7 +23,7 @@ namespace Dashboard_ClientDataCards_Wpf
             if (e.DashboardItemName == "cardDashboardItem1" & e.GetAxisPoint() != null)
             {
                 // Obtains client data related to the clicked card.
-                MultiDimensionalData clickedItemData = e.Data.GetSlice(e.GetAxisPoint());
+                MultiDimensionalData clickedItemData = e.GetSlice();
                 DeltaDescriptor delta = e.GetDeltas()[0];
 
                 // Creates a data table that will be used to hold client data.
