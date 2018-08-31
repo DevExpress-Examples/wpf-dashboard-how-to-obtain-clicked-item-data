@@ -4,3 +4,7 @@ This example demonstrates how to handle [DashboardControl.DashboardItemMouseUp](
 clicked [CardDashboardItem](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CardDashboardItem)'s data. The data are displayed in a chart in a secondary dialog window.
 
 ![](https://github.com/DevExpress-Examples/wpf-dashboard-how-to-obtain-clicked-item-data/blob/18.1.5%2B/images/DashboardItemMouseUpExample.png)
+
+See also:
+
+[How to obtain dashboard item's underlying data when the mouse hovers over it](https://github.com/DevExpress-Examples/wpf-dashboard-how-to-obtain-item-data-on-mouse-hover)
