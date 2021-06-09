@@ -15,7 +15,7 @@ clicked [CardDashboardItem](https://docs.devexpress.com/Dashboard/DevExpress.Das
 
 ## Documentation
 
-- [Underlying and Displayed Data](http://docs.devexpress.devx/Dashboard/400159/wpf-viewer/obtain-underlying-and-displayed-data)
+- [Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/400159/wpf-viewer/obtain-underlying-and-displayed-data)
 
 ## More Examples
 
