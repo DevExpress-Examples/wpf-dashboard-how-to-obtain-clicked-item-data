@@ -3,7 +3,7 @@
 
 * [MainWindow.xaml.cs](./CS/Dashboard_ClientDataCards_Wpf/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Dashboard_ClientDataCards_Wpf/MainWindow.xaml.vb))
 * [MainWindow.xaml](./CS/Dashboard_ClientDataCards_Wpf/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Dashboard_ClientDataCards_Wpf/MainWindow.xaml))
-* [DetailedChart.xaml](./CS/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml) (VB: [DetailedChart.xaml](./VB/WpfDashboard_ObjectDataSource/DetailedChart.xaml))
+* [DetailedChart.xaml](./CS/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml) (VB: [DetailedChart.xaml](./VB/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml))
 <!-- default file list end -->
 
 # WPF Dashboard Viewer - How to handle a mouse click to obtain dashboard item data
