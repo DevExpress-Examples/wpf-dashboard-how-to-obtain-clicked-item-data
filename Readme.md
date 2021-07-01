@@ -6,7 +6,7 @@
 * [DetailedChart.xaml](./CS/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml) (VB: [DetailedChart.xaml](./VB/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml))
 <!-- default file list end -->
 
-# WPF Dashboard Viewer - How to handle a mouse click to obtain dashboard item data
+# Dashboard for WPF - How to handle a mouse click to obtain dashboard item data
 
 This example demonstrates how to handle [DashboardControl.DashboardItemMouseUp](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl.DashboardItemMouseUp) event to obtain the 
 clicked [CardDashboardItem](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CardDashboardItem)'s data. The data are displayed in a chart in a secondary dialog window.
