@@ -3,13 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830555)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [MainWindow.xaml.cs](./CS/Dashboard_ClientDataCards_Wpf/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Dashboard_ClientDataCards_Wpf/MainWindow.xaml.vb))
-* [MainWindow.xaml](./CS/Dashboard_ClientDataCards_Wpf/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Dashboard_ClientDataCards_Wpf/MainWindow.xaml))
-* [DetailedChart.xaml](./CS/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml) (VB: [DetailedChart.xaml](./VB/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml))
-<!-- default file list end -->
 
 # Dashboard for WPF - How to handle a mouse click to obtain dashboard item data
 
@@ -17,6 +10,12 @@ This example demonstrates how to handle [DashboardControl.DashboardItemMouseUp](
 clicked [CardDashboardItem](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CardDashboardItem)'s data. The data are displayed in a chart in a secondary dialog window.
 
 ![](./images/DashboardItemMouseUpExample.png)
+
+## Files to Review
+
+* [MainWindow.xaml.cs](./CS/Dashboard_ClientDataCards_Wpf/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Dashboard_ClientDataCards_Wpf/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/Dashboard_ClientDataCards_Wpf/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Dashboard_ClientDataCards_Wpf/MainWindow.xaml))
+* [DetailedChart.xaml](./CS/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml) (VB: [DetailedChart.xaml](./VB/Dashboard_ClientDataCards_Wpf/DetailedChart.xaml))
 
 ## Documentation
 
